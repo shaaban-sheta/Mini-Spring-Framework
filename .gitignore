@@ -1,0 +1,72 @@
+# ======================
+# Build outputs
+# ======================
+target/
+build/
+out/
+
+# ======================
+# Logs
+# ======================
+*.log
+logs/
+
+# ======================
+# Java class files
+# ======================
+*.class
+
+# ======================
+# Maven / Gradle caches
+# ======================
+.mvn/
+mvnw.cmd
+mvnw
+.gradle/
+gradle/
+
+# ======================
+# IDEs
+# ======================
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Spring Boot / JVM
+# ======================
+*.pid
+*.hprof
+replay_pid*
+
+# ======================
+# Temporary files
+# ======================
+*.tmp
+*.swp
+*.swo
+
+# ======================
+# Coverage reports
+# ======================
+coverage/
+jacoco/
+*.exec
+
+# ======================
+# Packaging
+# ======================
+*.jar
+*.war
+*.ear
